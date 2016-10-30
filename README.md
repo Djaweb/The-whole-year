@@ -1,4 +1,4 @@
-# The-whole-year
+# The-whole-year and its days
 
 The year is 356 days.
 The year is 52 weeks.
